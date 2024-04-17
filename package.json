@@ -1,0 +1,23 @@
+{
+  "name": "rababfatima-100-word-counter",
+  "version": "1.0.0",
+  "description": "This undertaking is referred to as word counter project",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Rabab\"",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
